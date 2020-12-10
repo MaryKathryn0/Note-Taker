@@ -6,8 +6,17 @@ html, body {
 
 .navbar {
   color: black;
+  font-size: 40px;
+  font-weight: bolder;
   background-color: pink;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+  background-color: transparent;
+}
+
 .save-note {
   display: none;
 }
